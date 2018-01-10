@@ -1,0 +1,16 @@
+1515559309065	geckodriver	INFO	geckodriver 0.19.1
+1515559309083	geckodriver	INFO	Listening on 127.0.0.1:59306
+1515559310240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ozm2LX77CPDA"
+1515559311947	Marionette	INFO	Enabled via --marionette
+1515559315875	Marionette	INFO	Listening on port 34557
+1515559315966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515559316032	Marionette	DEBUG	Register listener.js for window 2147483649
+[Parent 12214, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-JSAO4L/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515559396884	geckodriver	INFO	geckodriver 0.19.1
+1515559396888	geckodriver	INFO	Listening on 127.0.0.1:48689
+1515559398050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ehemsvg3Gzoy"
+1515559398961	Marionette	INFO	Enabled via --marionette
+1515559404130	Marionette	INFO	Listening on port 36243
+1515559404349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515559404422	Marionette	DEBUG	Register listener.js for window 2147483649

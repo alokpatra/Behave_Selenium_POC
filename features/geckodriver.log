@@ -1,0 +1,98 @@
+1515557922843	geckodriver	INFO	geckodriver 0.19.1
+1515557922861	geckodriver	INFO	Listening on 127.0.0.1:56753
+1515557924103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wKxQ7ryjuuEL"
+1515557934648	Marionette	INFO	Enabled via --marionette
+1515557952164	Marionette	INFO	Listening on port 46224
+1515557952273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515557952351	Marionette	DEBUG	Register listener.js for window 2147483649
+1515557955063	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515557956999	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515557957000	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515557959271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=Q5RVWoeJDKfD8AfehanQBA&gws_rd=ssl"
+1515557962079	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=Q5RVWoeJDKfD8AfehanQBA&gws_rd=ssl"
+1515557962092	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=Q5RVWoeJDKfD8AfehanQBA&gws_rd=ssl"
+1515557962378	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=Q5RVWoeJDKfD8AfehanQBA&gws_rd=ssl"
+1515557962385	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=Q5RVWoeJDKfD8AfehanQBA&gws_rd=ssl"
+1515557962499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=SpRVWuimCKfD8AfehanQBA"
+1515557962669	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=SpRVWuimCKfD8AfehanQBA"
+1515557962677	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=SpRVWuimCKfD8AfehanQBA"
+1515557962962	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=SpRVWuimCKfD8AfehanQBA"
+1515557962968	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=SpRVWuimCKfD8AfehanQBA"
+1515557963049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=SpRVWpLNK6fD8AfehanQBA"
+1515557963212	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=SpRVWpLNK6fD8AfehanQBA"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515558037132	geckodriver	INFO	geckodriver 0.19.1
+1515558037171	geckodriver	INFO	Listening on 127.0.0.1:42967
+1515558038474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FZZFPUvDiyvh"
+1515558041290	Marionette	INFO	Enabled via --marionette
+1515558047085	Marionette	INFO	Listening on port 42088
+1515558047156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515558047220	Marionette	DEBUG	Register listener.js for window 2147483649
+1515558047855	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515558049375	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515558049376	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515558050115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=n5RVWu68PKXD8AewlqGYCw&gws_rd=ssl"
+1515558053774	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=n5RVWu68PKXD8AewlqGYCw&gws_rd=ssl"
+1515558053796	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=n5RVWu68PKXD8AewlqGYCw&gws_rd=ssl"
+1515558054085	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=n5RVWu68PKXD8AewlqGYCw&gws_rd=ssl"
+1515558054090	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=n5RVWu68PKXD8AewlqGYCw&gws_rd=ssl"
+1515558054176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=pZRVWu7FM6XD8AewlqGYCw"
+1515558054474	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=pZRVWu7FM6XD8AewlqGYCw"
+1515558054488	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=pZRVWu7FM6XD8AewlqGYCw"
+1515558054765	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=pZRVWu7FM6XD8AewlqGYCw"
+1515558054768	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=pZRVWu7FM6XD8AewlqGYCw"
+1515558054849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=ppRVWuGfIKXD8AewlqGYCw"
+1515558055155	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=ppRVWuGfIKXD8AewlqGYCw"
+1515558159530	geckodriver	INFO	geckodriver 0.19.1
+1515558159535	geckodriver	INFO	Listening on 127.0.0.1:39399
+1515558160694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wZcQG6DMUy9v"
+1515558163200	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+JavaScript error: resource://shield-recipe-client/lib/ShieldRecipeClient.jsm, line 70: TypeError: log is undefined
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1931: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsPIPlacesDatabase.connectionShutdownClient]
+JavaScript error: resource://gre/modules/BookmarkHTMLUtils.jsm, line 911: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.removeFolderChildren]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515558183170	geckodriver	INFO	geckodriver 0.19.1
+1515558183174	geckodriver	INFO	Listening on 127.0.0.1:49338
+1515558184344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I2L3Me1vGAty"
+1515558185217	Marionette	INFO	Enabled via --marionette
+1515558191218	Marionette	INFO	Listening on port 39560
+1515558191298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515558191377	Marionette	DEBUG	Register listener.js for window 2147483649
+1515558191954	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515558193489	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515558193490	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515558193658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=MJVVWt3rBaHD8AfpwYDgBw&gws_rd=ssl"
+1515558197760	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=MJVVWt3rBaHD8AfpwYDgBw&gws_rd=ssl"
+1515558197769	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=MJVVWt3rBaHD8AfpwYDgBw&gws_rd=ssl"
+1515558198072	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=MJVVWt3rBaHD8AfpwYDgBw&gws_rd=ssl"
+1515558198088	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=MJVVWt3rBaHD8AfpwYDgBw&gws_rd=ssl"
+1515558198174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=NZVVWrOyMaHD8AfpwYDgBw"
+1515558198345	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=NZVVWrOyMaHD8AfpwYDgBw"
+1515558198355	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=NZVVWrOyMaHD8AfpwYDgBw"
+1515558198642	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=NZVVWrOyMaHD8AfpwYDgBw"
+1515558198647	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=NZVVWrOyMaHD8AfpwYDgBw"
+1515558198862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=NpVVWqT7F6HD8AfpwYDgBw"
+1515558198891	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=NpVVWqT7F6HD8AfpwYDgBw"
+1515559372019	geckodriver	INFO	geckodriver 0.19.1
+1515559372023	geckodriver	INFO	Listening on 127.0.0.1:40120
+1515559373157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZVYh2nRyLHHg"
+1515559374049	Marionette	INFO	Enabled via --marionette
+1515559378083	Marionette	INFO	Listening on port 38453
+1515559378719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515559378794	Marionette	DEBUG	Register listener.js for window 2147483649
+1515559378857	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515559380382	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515559380382	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515559380561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=05lVWq-CAaXD8AewlqGYCw&gws_rd=ssl"
+1515559384680	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=05lVWq-CAaXD8AewlqGYCw&gws_rd=ssl"
+1515559384694	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=05lVWq-CAaXD8AewlqGYCw&gws_rd=ssl"
+1515559384988	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=05lVWq-CAaXD8AewlqGYCw&gws_rd=ssl"
+1515559384991	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=05lVWq-CAaXD8AewlqGYCw&gws_rd=ssl"
+1515559385112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=2JlVWp7pLaXD8AewlqGYCw"
+1515559385115	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=2JlVWp7pLaXD8AewlqGYCw"
+1515559385128	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=2JlVWp7pLaXD8AewlqGYCw"
+1515559385401	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=2JlVWp7pLaXD8AewlqGYCw"
+1515559385401	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=2JlVWp7pLaXD8AewlqGYCw"
+1515559385545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=2ZlVWqWTC6XD8AewlqGYCw"
+1515559385549	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com.sg/?gfe_rd=cr&dcr=0&ei=2ZlVWqWTC6XD8AewlqGYCw"
