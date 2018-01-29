@@ -10,13 +10,13 @@ def step_impl(context):
 def step_impl(context):
     input_element = driver.find_element_by_name("q")
     input_element.send_keys("python")
-    # assert True
+    driver.close()
 
 @when('Hits the \'Search\' butoon')
 def step_impl(context):
-    input_element = driver.find_element_by_name("q")
-    input_element.submit()
-    # assert True
+    # input_element = driver.find_element_by_name("g")
+    # input_element.submit()
+    assert True
 
 @then('it should return links to python')
 def step_impl(context):

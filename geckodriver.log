@@ -1,0 +1,197 @@
+1517229337830	geckodriver	INFO	geckodriver 0.19.1
+1517229337850	geckodriver	INFO	Listening on 127.0.0.1:56042
+1517229339109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BkyUhpwRTPPF"
+1517229348633	Marionette	INFO	Enabled via --marionette
+1517229360818	Marionette	INFO	Listening on port 41298
+1517229360957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517229361024	Marionette	DEBUG	Register listener.js for window 2147483649
+1517229361168	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517229362496	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517229362497	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517229363122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MRVvWqWfMaPy8AesnofwBQ&gws_rd=ssl"
+1517229364180	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MRVvWqWfMaPy8AesnofwBQ&gws_rd=ssl"
+1517229364197	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MRVvWqWfMaPy8AesnofwBQ&gws_rd=ssl"
+1517229364427	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MRVvWqWfMaPy8AesnofwBQ&gws_rd=ssl"
+1517229364443	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=MRVvWqWfMaPy8AesnofwBQ&gws_rd=ssl"
+1517229364602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=NBVvWsCKDqPy8AesnofwBQ"
+1517229364805	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=NBVvWsCKDqPy8AesnofwBQ"
+1517229364822	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=NBVvWsCKDqPy8AesnofwBQ"
+1517229365027	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=NBVvWsCKDqPy8AesnofwBQ"
+1517229365041	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=NBVvWsCKDqPy8AesnofwBQ"
+1517229365188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=NBVvWoGUNKPy8AesnofwBQ"
+1517229365374	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=NBVvWoGUNKPy8AesnofwBQ"
+1517229506828	geckodriver	INFO	geckodriver 0.19.1
+1517229506838	geckodriver	INFO	Listening on 127.0.0.1:44880
+1517229508103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Qw2cuefLZd7j"
+1517229511882	Marionette	INFO	Enabled via --marionette
+1517229518726	Marionette	INFO	Listening on port 35490
+1517229518776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517229518891	Marionette	DEBUG	Register listener.js for window 2147483649
+1517229570121	geckodriver	INFO	geckodriver 0.19.1
+1517229570125	geckodriver	INFO	Listening on 127.0.0.1:55071
+1517229571264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VVfHiKI3SW7I"
+1517229572200	Marionette	INFO	Enabled via --marionette
+1517229575754	Marionette	INFO	Listening on port 34735
+1517229575785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517229575860	Marionette	DEBUG	Register listener.js for window 2147483649
+1517229576449	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517229577725	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517229577725	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517229578017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CBZvWp_tJO-G8Qf-gKSYBg&gws_rd=ssl"
+1517229579285	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CBZvWp_tJO-G8Qf-gKSYBg&gws_rd=ssl"
+1517229579325	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CBZvWp_tJO-G8Qf-gKSYBg&gws_rd=ssl"
+1517229579752	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CBZvWp_tJO-G8Qf-gKSYBg&gws_rd=ssl"
+1517229579760	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CBZvWp_tJO-G8Qf-gKSYBg&gws_rd=ssl"
+1517229579895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CxZvWrPWGO-G8Qf-gKSYBg"
+1517229580087	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CxZvWrPWGO-G8Qf-gKSYBg"
+1517229580100	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CxZvWrPWGO-G8Qf-gKSYBg"
+1517229580445	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CxZvWrPWGO-G8Qf-gKSYBg"
+1517229580452	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=CxZvWrPWGO-G8Qf-gKSYBg"
+1517229580556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=DBZvWq-GCu-G8Qf-gKSYBg"
+1517229580753	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=DBZvWq-GCu-G8Qf-gKSYBg"
+1517229725350	geckodriver	INFO	geckodriver 0.19.1
+1517229725354	geckodriver	INFO	Listening on 127.0.0.1:44364
+1517229726586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tYa1HxH3QIJO"
+1517229727410	Marionette	INFO	Enabled via --marionette
+1517229731163	Marionette	INFO	Listening on port 33669
+1517229731215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517229731289	Marionette	DEBUG	Register listener.js for window 2147483649
+1517229731316	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517229732119	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517229732120	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517229732293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=oxZvWujFF6vy8AeYyoP4DQ&gws_rd=ssl"
+1517229733136	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=oxZvWujFF6vy8AeYyoP4DQ&gws_rd=ssl"
+1517229733150	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=oxZvWujFF6vy8AeYyoP4DQ&gws_rd=ssl"
+1517229733351	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=oxZvWujFF6vy8AeYyoP4DQ&gws_rd=ssl"
+1517229733359	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=oxZvWujFF6vy8AeYyoP4DQ&gws_rd=ssl"
+1517229733491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=pRZvWoH9Cqvy8AeYyoP4DQ"
+1517229733784	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=pRZvWoH9Cqvy8AeYyoP4DQ"
+1517229733793	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=pRZvWoH9Cqvy8AeYyoP4DQ"
+1517229733997	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=pRZvWoH9Cqvy8AeYyoP4DQ"
+1517229734010	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=pRZvWoH9Cqvy8AeYyoP4DQ"
+1517229734147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=pRZvWr-jMqvy8AeYyoP4DQ"
+1517229734336	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=pRZvWr-jMqvy8AeYyoP4DQ"
+1517229803567	geckodriver	INFO	geckodriver 0.19.1
+1517229803571	geckodriver	INFO	Listening on 127.0.0.1:52564
+1517229804725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yJQOwCb9uj06"
+1517229805581	Marionette	INFO	Enabled via --marionette
+1517229809637	Marionette	INFO	Listening on port 43231
+1517229809647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517229809721	Marionette	DEBUG	Register listener.js for window 2147483649
+1517229809773	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517229810578	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517229810579	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517229810790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8RZvWunrMq7y8Aey24X4DQ&gws_rd=ssl"
+1517229811617	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8RZvWunrMq7y8Aey24X4DQ&gws_rd=ssl"
+1517229811635	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8RZvWunrMq7y8Aey24X4DQ&gws_rd=ssl"
+1517229811844	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8RZvWunrMq7y8Aey24X4DQ&gws_rd=ssl"
+1517229811848	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8RZvWunrMq7y8Aey24X4DQ&gws_rd=ssl"
+1517229811996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8xZvWu6YKa7y8Aey24X4DQ"
+1517229812339	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8xZvWu6YKa7y8Aey24X4DQ"
+1517229812351	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8xZvWu6YKa7y8Aey24X4DQ"
+1517229812558	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8xZvWu6YKa7y8Aey24X4DQ"
+1517229812564	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=8xZvWu6YKa7y8Aey24X4DQ"
+1517229812650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=9BZvWtvFF67y8Aey24X4DQ"
+1517229812831	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=9BZvWtvFF67y8Aey24X4DQ"
+1517229935453	geckodriver	INFO	geckodriver 0.19.1
+1517229935465	geckodriver	INFO	Listening on 127.0.0.1:54461
+1517229936704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5pZCvTNVySNy"
+1517229937884	Marionette	INFO	Enabled via --marionette
+1517229941661	Marionette	INFO	Listening on port 45492
+1517229941744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517229941821	Marionette	DEBUG	Register listener.js for window 2147483649
+1517229941862	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517229942784	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517229942786	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517229942992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dRdvWtnEO6Py8AesnofwBQ&gws_rd=ssl"
+1517229943730	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dRdvWtnEO6Py8AesnofwBQ&gws_rd=ssl"
+1517229943750	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dRdvWtnEO6Py8AesnofwBQ&gws_rd=ssl"
+1517229943933	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dRdvWtnEO6Py8AesnofwBQ&gws_rd=ssl"
+1517229943935	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dRdvWtnEO6Py8AesnofwBQ&gws_rd=ssl"
+1517229944033	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dxdvWpfVL6Py8AesnofwBQ"
+1517229944185	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dxdvWpfVL6Py8AesnofwBQ"
+1517229944197	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dxdvWpfVL6Py8AesnofwBQ"
+1517229944378	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dxdvWpfVL6Py8AesnofwBQ"
+1517229944385	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=dxdvWpfVL6Py8AesnofwBQ"
+1517229944505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=eBdvWvnSDaPy8AesnofwBQ"
+1517229944705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=eBdvWvnSDaPy8AesnofwBQ"
+1517230024077	geckodriver	INFO	geckodriver 0.19.1
+1517230024100	geckodriver	INFO	Listening on 127.0.0.1:59265
+1517230025250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lvX0fJeTqaYL"
+1517230027975	Marionette	INFO	Enabled via --marionette
+1517230033610	Marionette	INFO	Listening on port 37063
+1517230033703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517230033773	Marionette	DEBUG	Register listener.js for window 2147483649
+1517230033821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517230034663	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517230034664	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517230034849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0RdvWoLbNbHy8Afm4IewCg&gws_rd=ssl"
+1517230035893	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0RdvWoLbNbHy8Afm4IewCg&gws_rd=ssl"
+1517230035902	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0RdvWoLbNbHy8Afm4IewCg&gws_rd=ssl"
+1517230036107	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0RdvWoLbNbHy8Afm4IewCg&gws_rd=ssl"
+1517230036123	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0RdvWoLbNbHy8Afm4IewCg&gws_rd=ssl"
+1517230036241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0xdvWvLxOLHy8Afm4IewCg"
+1517230036434	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0xdvWvLxOLHy8Afm4IewCg"
+1517230036446	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0xdvWvLxOLHy8Afm4IewCg"
+1517230036650	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0xdvWvLxOLHy8Afm4IewCg"
+1517230036658	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=0xdvWvLxOLHy8Afm4IewCg"
+1517230036807	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1BdvWo33HLHy8Afm4IewCg"
+1517230036995	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1BdvWo33HLHy8Afm4IewCg"
+1517230116690	geckodriver	INFO	geckodriver 0.19.1
+1517230116700	geckodriver	INFO	Listening on 127.0.0.1:45168
+1517230116946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MkhBVoPba9vQ"
+1517230120012	Marionette	INFO	Enabled via --marionette
+1517230124542	Marionette	INFO	Listening on port 42636
+1517230124584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517230124670	Marionette	DEBUG	Register listener.js for window 2147483649
+1517230147853	geckodriver	INFO	geckodriver 0.19.1
+1517230147857	geckodriver	INFO	Listening on 127.0.0.1:41892
+1517230149074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cY1r4OqJPyRR"
+1517230150198	Marionette	INFO	Enabled via --marionette
+1517230153812	Marionette	INFO	Listening on port 42966
+1517230153896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517230153969	Marionette	DEBUG	Register listener.js for window 2147483649
+1517230153992	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517230154709	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517230154709	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517230154856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=ShhvWveoAqvy8AeYyoP4DQ&gws_rd=ssl"
+1517230155626	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=ShhvWveoAqvy8AeYyoP4DQ&gws_rd=ssl"
+1517230155635	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=ShhvWveoAqvy8AeYyoP4DQ&gws_rd=ssl"
+1517230155842	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=ShhvWveoAqvy8AeYyoP4DQ&gws_rd=ssl"
+1517230155856	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=ShhvWveoAqvy8AeYyoP4DQ&gws_rd=ssl"
+1517230155979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=SxhvWrvJKKvy8AeYyoP4DQ"
+1517230156162	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=SxhvWrvJKKvy8AeYyoP4DQ"
+1517230156390	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=SxhvWrvJKKvy8AeYyoP4DQ"
+1517230156575	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=SxhvWrvJKKvy8AeYyoP4DQ"
+1517230156584	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=SxhvWrvJKKvy8AeYyoP4DQ"
+1517230156710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=TBhvWvfrGavy8AeYyoP4DQ"
+1517230157031	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=TBhvWvfrGavy8AeYyoP4DQ"
+1517230213874	geckodriver	INFO	geckodriver 0.19.1
+1517230213887	geckodriver	INFO	Listening on 127.0.0.1:43412
+1517230215050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2dnLWFIwomVh"
+1517230216782	Marionette	INFO	Enabled via --marionette
+1517230225220	Marionette	INFO	Listening on port 46863
+1517230225572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517230225644	Marionette	DEBUG	Register listener.js for window 2147483649
+1517230225696	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517230227431	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517230227432	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1517230228354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=kRhvWsyML6_y8Ae6tYpY&gws_rd=ssl"
+1517230229197	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=kRhvWsyML6_y8Ae6tYpY&gws_rd=ssl"
+1517230229225	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=kRhvWsyML6_y8Ae6tYpY&gws_rd=ssl"
+1517230229469	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=kRhvWsyML6_y8Ae6tYpY&gws_rd=ssl"
+1517230229476	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=kRhvWsyML6_y8Ae6tYpY&gws_rd=ssl"
+1517230229659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=lRhvWuXuD6_y8Ae6tYpY"
+1517230229862	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=lRhvWuXuD6_y8Ae6tYpY"
+1517230229889	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=lRhvWuXuD6_y8Ae6tYpY"
+1517230230119	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=lRhvWuXuD6_y8Ae6tYpY"
+1517230230123	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=lRhvWuXuD6_y8Ae6tYpY"
+1517230230235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=lRhvWoD9N6_y8Ae6tYpY"
+1517230230565	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=lRhvWoD9N6_y8Ae6tYpY"
+1517230246643	geckodriver	INFO	geckodriver 0.19.1
+1517230246649	geckodriver	INFO	Listening on 127.0.0.1:54420
+1517230247825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.62ckVJPbzci0"
+1517230249072	Marionette	INFO	Enabled via --marionette
+1517230252680	Marionette	INFO	Listening on port 41734
+1517230252763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517230252831	Marionette	DEBUG	Register listener.js for window 2147483649
